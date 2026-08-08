@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-ws4d8s.indocuan.space/sitemap.xml
